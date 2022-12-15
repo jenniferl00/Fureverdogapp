@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Fureverdogapp</string>
+    <string name="app_name">Furever Home</string>
 
     <string-array name="states_array">
         <item>Alabama</item>
